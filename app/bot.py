@@ -36,7 +36,7 @@ if not BOT_TOKEN:
 # NOMBRE DEL BOT (PARA ENLACES Y MENSAJES)
 # ======================================================
 
-BOT_NAME = "HADES ALPHA"
+BOT_NAME = "Liquidity-Hunter"
 
 # ======================================================
 # /START
