@@ -16,7 +16,7 @@ from app.models import update_timestamp, is_plan_active
 
 logger = logging.getLogger(__name__)
 
-BOT_USERNAME = "HADES_ALPHA_bot"
+BOT_USERNAME = "Hunter_Liquidity_bot"
 
 
 # =========================
