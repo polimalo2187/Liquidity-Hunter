@@ -604,7 +604,7 @@ async def handle_plans(query, user):
     whatsapps = get_admin_whatsapps()
 
     message = (
-        "💼 PLANES HADES ALPHA\n\n"
+        "💼 PLANES Liquidity-Hunter\n\n"
         f"📊 Tu plan actual: {plan}\n\n"
         "🟢 FREE\n"
         "• Acceso básico al bot\n"
@@ -625,8 +625,8 @@ async def handle_plans(query, user):
 
     keyboard_rows = []
 
-    plus_msg = f"Hola, quiero activar el plan PLUS de HADES ALPHA. Mi ID de Telegram es: {user_id}"
-    premium_msg = f"Hola, quiero activar el plan PREMIUM de HADES ALPHA. Mi ID de Telegram es: {user_id}"
+    plus_msg = f"Hola, quiero activar el plan PLUS de Liquidity-Hunter. Mi ID de Telegram es: {user_id}"
+    premium_msg = f"Hola, quiero activar el plan PREMIUM de Liquidity-Hunter. Mi ID de Telegram es: {user_id}"
 
     if len(whatsapps) >= 1:
         keyboard_rows.append([
